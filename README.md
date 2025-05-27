@@ -4,17 +4,6 @@
 
 Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. Atualmente, estou cursando Engenharia de Software. 
 
-<p align="left">
-    
-    <a href="https://github.com/LaislaCrispim?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LaislaCrispim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
