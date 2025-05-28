@@ -3,7 +3,8 @@
 **`Desenvolvedora Front End`**
 
 Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. Atualmente, estou cursando Engenharia de Software. 
-🌐Analista de redes e monitoramento (Zabbix)
+<br>
+🌐Analista de redes e monitoramento (Zabbix) <br>
 📊Gestora de projetos (Implantação de sistema de segurança digital em condomínios inteligentes e smartcity's)
 
 ---
