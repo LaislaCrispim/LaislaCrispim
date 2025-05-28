@@ -74,7 +74,6 @@ Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. A
   />
 
 </p>
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaislaCrispim/LaislaCrispim/output/github-contribution-grid-snake-dark.svg">
