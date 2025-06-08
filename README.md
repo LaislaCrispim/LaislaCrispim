@@ -60,17 +60,9 @@ Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. A
 ### 📊 Estatísticas
 
 <div align="center">  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LaislaCrispim&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
-<img align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaislaCrispim&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-    </div>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LaislaCrispim&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=0d1117" alt="Laisla Crispim github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaislaCrispim&layout=compact&hide_border=true&title_color=FF00F6&text_color=FF00F6&bg_color=0d1117" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LaislaCrispim&bg_color=000000&color=FF00F6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
