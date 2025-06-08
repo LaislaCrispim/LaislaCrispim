@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=header"/>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDO+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -57,21 +59,20 @@ Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. A
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">  
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LaislaCrispim&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
+    src="https://github-readme-stats.vercel.app/api?username=LaislaCrispim&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
+<img align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaislaCrispim&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaislaCrispim&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LaislaCrispim&bg_color=000000&color=FF00F6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
@@ -80,3 +81,5 @@ Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. A
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaislaCrispim/LaislaCrispim/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaislaCrispim/LaislaCrispim/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00F6&height=120&section=footer"/>
