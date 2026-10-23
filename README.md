@@ -58,9 +58,9 @@ Meu nome é Laisla Crispim, tenho 25 anos e sou natural de Ribeirão Preto SP. A
 <br/>
 
 ### 📊 Estatísticas
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula)](https://github.com/LaislaCrispim/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=laislacrispim&theme=dracula)](https://github.com/LaislaCrispim/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula)](https://github.com/LaislaCrispim/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=laislacrispim&hide=html&layout=compact&theme=dracula)](https://github.com/LaislaCrispim/github-readme-stats)
 
 </p>
 
